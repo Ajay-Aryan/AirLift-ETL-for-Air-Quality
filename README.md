@@ -20,7 +20,7 @@ This project operates as a robust **ETL pipeline**:
 
 ## **Features**
 
-### 🚀 **Real-Time Data Extraction**
+###  **Real-Time Data Extraction**
 - Dynamically fetches air quality data for the **last 10 hours**.
 - Pollutants included:
    - **PM2.5**: Fine particulate matter
@@ -33,7 +33,7 @@ This project operates as a robust **ETL pipeline**:
 
 ---
 
-### 📊 **Data Transformation and Storage**
+###  **Data Transformation and Storage**
 - Converts raw API responses into clean **DataFrames**.
 - Removes timezone offsets for easier analysis.
 - Saves structured data as:
@@ -42,7 +42,7 @@ This project operates as a robust **ETL pipeline**:
 
 ---
 
-### 📈 **Visualizations**
+###  **Visualizations**
 
 #### 1. **Last-Hour Pollutant Levels**  
 A bar chart highlights pollutant concentrations in the most recent hour.
