@@ -86,8 +86,13 @@ The script is modular and divided into key sections:
 - **Python 3.8+**
 - OpenWeatherMap API Key (sign up [here](https://openweathermap.org/api)).
 
+## Contributing
+Contributions are welcome! Feel free to submit issues or pull requests for any enhancements or bug fixes.
+
 ### Required Libraries
 Install dependencies with pip:
 
 ```bash
 pip install requests pandas matplotlib seaborn plotly openpyxl pytz
+
+
